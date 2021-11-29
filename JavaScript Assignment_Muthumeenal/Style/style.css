@@ -1,0 +1,22 @@
+#Main{
+    position: relative;;
+    left: 30%;
+}
+body{
+    position: relative;
+    left: 10%;
+    right:10%;
+    
+}
+.col{
+    width: 250px;
+    height: 25px;
+    padding: 10px;
+
+
+}
+.one{
+    width: 125px;
+    height: 25px;
+    padding: 10px;
+}
